@@ -8,7 +8,7 @@ package TugasMh;
  *
  * @author ISMAIL
  */
-public class Dikotil extends Hewan {
+public class Dikotil extends Tumbuhan {
     public void bijidi(){
         System.out.println("Saya berbiji keping dua");
     }
